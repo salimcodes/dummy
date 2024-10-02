@@ -53,7 +53,7 @@ https://x.com/GCEUnilag/status/1825481840754356277
 
 ## Photos 
 
-*You can embed any images here - see the [markdown guide](https://guides.github.com/features/mastering-markdown/) for how to do this*
+Nil 
 
 ## Summary :thought_balloon:
 
